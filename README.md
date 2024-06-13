@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SathishKumar-2004/faq-accordion-main/tree/main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
